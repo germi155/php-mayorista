@@ -1,5 +1,5 @@
 # php-mayorista
-MAyorista de ropa en argentina https://www.invarg.com/
+MAyorista de ropa en argentina 
 Mayorista de ropa en argentina. La web https://www.invarg.com/ esta echa totalmente en php. Como bien es sabido al principio se pensó hacer una tienda online en donde los mayoristas y clientes minoristas pudieran comprar y vender indumentaria. 
 Con el tiempo esta idea cambio, ya que existía varias plataformas web que daban este servicio, entonces invarg cambio para ser una plataforma online.
 Después de mucho tiempo de discusión se creó invarg, una web de compra y venta de ropa al por mayor con interacción social, la web esta armada con php.
