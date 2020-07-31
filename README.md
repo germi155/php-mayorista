@@ -5,7 +5,7 @@ Con el tiempo esta idea cambio, ya que existía varias plataformas web que daban
 Después de mucho tiempo de discusión se creó invarg, una web de compra y venta de ropa al por mayor con interacción social, la web esta armada con php.
 Otra de las características que se le sumo a invarg fueron los perfiles de los usuarios, tanto de compradores como de vendedores.  Para los catálogos se utilizó el grupo, ya que era la única forma de que los clientes tuvieran un lugar 
 También se discutió sobre los blog en la web, por supuesto que es conveniente dejarlo ya que es una web de compra y venta al por mayor pero a la vez una red social en donde cada usuario puede escribir.
-Lo que se busca dejando el blog es que cada usuario hable sobre la indumentaria que vende o que compra. https://www.invarg.com/blog/all
+Lo que se busca dejando el blog es que cada usuario hable sobre la indumentaria que vende o que compra. 
 El tiempo de terminado fue de un mes aproximadamente, sin embargo con los catálogos de los clientes mayoristas todavía está en fase beta, si Dios quiere terminaremos los catálogos en septiembre.
 Otro de los puntos más importantes de la web fue el mercado https://www.invarg.com/market
 Necesitábamos un lugar en donde los clientes pudieran vender o comprar indumentaria de un modo fácil, el mercado conseguido es lo bastante bueno sin embargo se le puede añadir más cosas. 
